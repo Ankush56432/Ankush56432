@@ -235,17 +235,7 @@ Full-stack **chemistry simulation** platform. Students run virtual experiments w
 
 ---
 
-## 🎯 2026 Roadmap
 
-```
-[████████░░] 80%  TryHackMe Jr. Penetration Tester Path
-[██████░░░░] 60%  eJPT (eLearnSecurity Junior Penetration Tester)
-[████░░░░░░] 40%  CTF Competitions (HackTheBox, PicoCTF)
-[██░░░░░░░░] 20%  CEH / CompTIA Security+ Preparation
-[░░░░░░░░░░]  0%  First Bug Bounty Submission — COMING SOON 🔥
-```
-
----
 
 <div align="center">
 
