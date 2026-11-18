@@ -1,175 +1,147 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:00ff41,100:003300&height=220&section=header&text=Ankush%20Solanki&fontSize=65&fontColor=00ff41&fontAlignY=38&desc=%3E_%20Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20Red%20Team%20Enthusiast&descAlignY=60&descSize=17&animation=fadeIn&fontAlign=50" />
-
-</div>
+# 👋 Hi, I'm Ankush Solanki
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   $ whoami                                              │
-│   > Ankush Solanki — Aspiring Cybersecurity Engineer    │
-│                                                         │
-│   $ cat /etc/mission                                    │
-│   > Break things ethically. Fix them permanently.       │
-│                                                         │
-│   $ nmap --open -sV ankush.solanki                      │
-│   > PORT: Offensive Security     STATE: ACTIVE          │
-│   > PORT: Web Development        STATE: ACTIVE          │
-│   > PORT: Red Team Ops           STATE: LEARNING        │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:00d4ff,100:142850&height=220&section=header&text=Ankush%20Solanki&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20%26%20Machine%20Learning%20Engineer&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50" />
 
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Ethical+Hacker+in+Training+%F0%9F%94%90;Red+Team+%7C+Penetration+Testing+%7C+OSINT;Building+AI-Powered+Security+Tools+%F0%9F%A4%96;TryHackMe+%7C+Certified+CRTOM+%7C+Offensive+Security;From+Web+Dev+to+Cyber+Warrior+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+### 🤖 Artificial Intelligence | Machine Learning | Python | Research
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-solanki-b2a61b309)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://tryhackme.com/p/Ankush56432](https://tryhackme.com/p/ankushsolanki025))
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Ankush56432)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankush56432)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushsolanki025@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
+
+I am an Information Technology graduate with a strong interest in **Artificial Intelligence, Machine Learning, Natural Language Processing, and Computer Vision**.
+
+My journey into AI involves building practical projects, exploring intelligent systems, and understanding how machine learning can solve real-world problems, particularly in healthcare.
+
+I am currently focused on strengthening my AI and machine learning foundations and preparing for advanced studies in Artificial Intelligence.
 
 ```python
 class AnkushSolanki:
+
     def __init__(self):
-        self.name       = "Ankush Solanki"
-        self.role       = "Aspiring Cybersecurity Engineer"
-        self.domain     = "Offensive Security & Red Teaming"
-        self.education  = "Self-taught via TryHackMe, Udemy, Red Team Leaders"
-        self.languages  = ["Python", "JavaScript", "Bash", "HTML/CSS"]
-        self.tools      = ["Nmap", "Wireshark", "Burp Suite", "Metasploit"]
-        self.mindset    = "Think like an attacker. Defend like a professional."
-        self.goal       = "Land a role in Cybersecurity / Penetration Testing"
+        self.name = "Ankush Solanki"
+        self.education = "B.Tech in Information Technology"
+        self.cgpa = "7.73/10"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "AI in Healthcare"
+        ]
+
+        self.languages = ["Python", "JavaScript", "Java"]
+        self.goal = "Pursue advanced studies and build impactful AI solutions"
 
     def current_focus(self):
         return [
-            "🔴 Red Team Operations",
-            "🕵️ OSINT & Reconnaissance",
-            "🌐 Web Application Security",
-            "🐧 Linux & Scripting Automation"
+            "Building AI-powered applications",
+            "Exploring Machine Learning",
+            "Working with NLP and Computer Vision",
+            "Strengthening Python and AI fundamentals",
+            "Exploring AI research"
         ]
 ```
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🎓 Education
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Bachelor of Technology – Information Technology**
 
-### 🔴 Red Team Leaders — CRTOM
-**Certified Red Team Operations Management**
-`Jan 13, 2026`
+Sharda University, Greater Noida, India
 
-> Offensive security strategies · Red team methodologies · Adversary simulation · Vulnerability assessment · Security ops management
-
-[![Certificate](https://img.shields.io/badge/View_Certificate-FF0000?style=for-the-badge&logo=target&logoColor=white)](https://courses.redteamleaders.com/exam-completion/91ce0e0a997e1b99)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟢 TryHackMe — Pre Security
-**Pre Security Learning Path**
-`Jan 15, 2026`
-
-> Networking basics · Linux fundamentals · Web security principles · Introductory penetration testing · Hands-on CTF labs
-
-[![Certificate](https://img.shields.io/badge/View_Certificate-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KBRXJ7YSAY.pdf)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟠 Udemy — Offensive Security Path
-**Offensive Security & Ethical Hacking**
-`Jan 23, 2026`
-
-> Penetration testing · Ethical hacking · Network security · Web application security · Security tools & methodologies
-
-[![Certificate](https://img.shields.io/badge/View_Certificate-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-232ffa01-a11f-4b6b-8d79-a50779251a1c/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 Udemy — Full Stack Web Dev
-**Complete Web Development Bootcamp**
-`Sep 26, 2024`
-
-> HTML · CSS · JavaScript · Node.js · Express.js · Databases · Full-stack projects · REST APIs
-
-[![Certificate](https://img.shields.io/badge/View_Certificate-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-4a17ad4c-bbb0-437a-bef0-d03f149346d5/)
-
-</td>
-</tr>
-</table>
+- Final CGPA: **7.73/10**
+- Degree: B.Tech
+- Academic interests: Artificial Intelligence, Machine Learning, Programming and Data Science
 
 ---
 
-## 🔐 Security & Dev Projects
+## 🧠 AI & Machine Learning Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🏥 MediAI Healthcare Assistant
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat)
+![NLP](https://img.shields.io/badge/NLP-008080?style=flat)
+
+An AI-driven healthcare assistant designed to support symptom assessment, medical report analysis, and dermatological diagnosis.
+
+**Key areas:**
+- Natural Language Processing
+- Machine Learning
+- Healthcare AI
+- Computer Vision
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ankush56432/medi-ai-healthcare-assistant)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🩹 OpenCV Wound Detection
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
 
-AI-powered **computer vision** system that detects and classifies wounds from images — built for frontline healthcare workers.
+A computer vision project exploring wound detection and image processing, with a bandage overlay feature.
 
-[![Repo](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Ankush56432/opencv-wound-detection-bandaid)
+**Key areas:**
+- Image Processing
+- Computer Vision
+- OpenCV
+- Python
 
-</td>
-<td width="50%">
-
-### 🏥 Medi-AI Healthcare Assistant
-![AI](https://img.shields.io/badge/AI-FF4444?style=flat&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-
-**AI-powered medical assistant** for symptom analysis and health guidance. Combines NLP with a curated medical knowledge base.
-
-[![Repo](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Ankush56432/medi-ai-healthcare-assistant)
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ankush56432/opencv-wound-detection-bandaid)
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 Virtual Chemistry Lab
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+### 🎙️ Python Voice & Text Chatbot
 
-Full-stack **chemistry simulation** platform. Students run virtual experiments with zero risk — real-time interactive science.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Speech](https://img.shields.io/badge/Speech_Recognition-008080?style=flat)
 
-[![Repo](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Ankush56432/virtual-chem-lab)
+Developed during my second year of B.Tech in 2023.
+
+A Python-based chatbot that supports typed and spoken queries, retrieves information from Wikipedia, and provides spoken responses.
+
+**Key areas:**
+- Speech Recognition
+- Text-to-Speech
+- Python Automation
+- Human-Computer Interaction
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚗 Car Analysis Dashboard
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2196F3?style=flat)
 
-**Data-driven dashboard** for automotive analytics — performance metrics, visual comparisons, and real-time insights.
+A data analysis project focused on automotive information, data visualization, and interactive insights.
 
-[![Repo](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Ankush56432/Car-Analysis-Dashboard)
+**Key areas:**
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ankush56432/Car-Analysis-Dashboard)
 
 </td>
 </tr>
@@ -177,84 +149,132 @@ Full-stack **chemistry simulation** platform. Students run virtual experiments w
 
 ---
 
-## 🛠️ Skills & Arsenal
+## 🔬 Research & Conference Presentations
 
-<div align="center">
+### 1. MediAI Healthcare Assistant
 
-### ⚔️ Offensive Security
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+**International Conference on Computational Intelligence and Computing Technologies & AI 2026**
 
-### 💻 Development
+📅 January 22–23, 2026
+
+📍 India International Centre, New Delhi, India
+
+Presented a research paper on an AI-driven healthcare assistant integrating symptom assessment, medical report analysis, and dermatological diagnosis.
+
+### 2. A Multimodal AI Framework for Real-Time Medical Consultation, Symptom Checking, and Health Monitoring
+
+**1st International Conference on Innovative and Sustainable Practices in Redefining Economy (InSPIRE 2K26)**
+
+📅 February 12–13, 2026
+
+📍 Sharda University, Agra, India
+
+Presented research on a multimodal AI framework for healthcare applications.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Artificial Intelligence & Data
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-008080?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4169E1?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF8C00?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Web Development & Tools
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🌐 Networking & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-00B140?style=for-the-badge&logo=paloalto-networks&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+| Certification | Platform | Date |
+|---|---|---|
+| Pre Security | TryHackMe | January 2026 |
+| Certified Red Team Operations Management (CRTOM) | Red Team Leaders | January 2026 |
+| Offensive Security Path | Udemy | January 2026 |
+| Complete Web Development Bootcamp | Udemy | September 2024 |
+
+These certifications reflect my broader technical background in programming, networking, web technologies, and security.
+
+---
+
+## 💼 Professional Experience
+
+**Web Developer – Virtual Chem Labs**
+
+📅 October 2025 – Present
+
+- Develop and maintain web applications.
+- Work on front-end and back-end development.
+- Improve application performance and functionality.
+- Collaborate with the development team on software projects.
+
+Website: https://virtualchemlabs.com
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ankush56432&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush56432&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush56432&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Goals
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ankush56432&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush56432&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush56432&theme=dark&hide_border=true&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" />
-</div>
+- Strengthen mathematical foundations for Artificial Intelligence.
+- Develop practical Machine Learning and Deep Learning projects.
+- Explore advanced Natural Language Processing and Computer Vision.
+- Read and understand AI research papers.
+- Pursue a Master's degree in Artificial Intelligence.
+- Build AI applications that address real-world challenges.
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankush56432&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush56432&theme=react-dark&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&hide_border=true" />
-</div>
-
----
-
-
+## 📫 Connect With Me
 
 <div align="center">
 
-### 💬 Recruiter? Let's Talk.
-
-*I'm actively seeking opportunities in **Cybersecurity**, **Penetration Testing**, and **Security Operations**.*
-*Available for internships, entry-level roles, and freelance security assessments.*
+I'm interested in connecting with students, researchers, developers, and professionals working in Artificial Intelligence and Machine Learning.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-solanki-b2a61b309)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushsolanki025@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankush56432)
+
+[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushsolanki025@gmail.com)
+
+</div>
 
 ---
 
-```
-> "In a world of threats, be the one who understands them best."
-```
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ankush56432&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+**"The future belongs to those who build intelligent solutions to real-world problems."**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,60:00ff41,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
+![Profile Views](https://komarev.com/ghpvc/?username=Ankush56432&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:142850,60:00d4ff,100:0a0a0a&height=120&section=footer"/>
 
 </div>
